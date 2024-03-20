@@ -1885,7 +1885,7 @@ hr {
 .contact-section .contact-info .list-info .info-details .info-value a:focus {
   color: #797979 !important;
 }
-.item-content{
+.item-content, content-title{
   display: flex;
   flex-direction: column;
   color: #009e66
